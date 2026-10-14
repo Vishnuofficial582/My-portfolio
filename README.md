@@ -30,4 +30,20 @@ A currency conversion application using exchange-rate data.
 - [Live Demo](https://vishnuofficial582.github.io/currency-converter/)
 - [Source Code](https://github.com/Vishnuofficial582/currency-converter)
 
-### 5.
+### 5. Tic Tac Toe
+A two-player game with win detection and restart functionality.
+- [Live Demo](https://vishnuofficial582.github.io/tic-tac-toe/)
+- [Source Code](https://github.com/Vishnuofficial582/tic-tac-toe)
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- Git and GitHub
+
+## Contact
+Visit my [GitHub Profile](https://github.com/Vishnuofficial582) to explore my projects.
+
+---
+
+Thank you for visiting my portfolio!
