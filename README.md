@@ -1,21 +1,33 @@
 # Vishnu Kumar — Portfolio Website
 
-A responsive portfolio built with HTML, CSS and JavaScript.
+Welcome to my personal portfolio! I am a BCA graduate and aspiring Web Developer passionate about building responsive and user-friendly websites.
 
-## Run locally
-1. Extract this ZIP.
-2. Open the `vishnu-portfolio` folder in VS Code.
-3. Open `index.html` in your browser, or use the Live Server extension.
+## About Me
+- **Role:** Fresher Web Developer
+- **Education:** Bachelor of Computer Applications (BCA)
+- **Skills:** HTML, CSS, JavaScript, React (Learning)
+- **GitHub:** [Vishnuofficial582](https://github.com/Vishnuofficial582)
 
-## Before publishing
-- Open `script.js` and replace `YOUR_EMAIL@example.com` with your real email address.
-- Add your resume PDF if you want a Resume button.
-- The hero image is a designed initials placeholder, not a real photograph.
-- Confirm all project repository URLs are correct before sharing with recruiters.
+## My Projects
 
-## Included projects
-- Calculator
-- Todo App
-- Weather App
-- Currency Converter
-- Tic Tac Toe
+### 1. Calculator
+A simple calculator for basic arithmetic operations.
+- [Live Demo](https://vishnuofficial582.github.io/calculator/)
+- [Source Code](https://github.com/Vishnuofficial582/calculator)
+
+### 2. Todo App
+A task management application.
+- [Live Demo](https://vishnuofficial582.github.io/todo-app/)
+- [Source Code](https://github.com/Vishnuofficial582/todo-app)
+
+### 3. Weather App
+A weather application that uses an API to display weather information.
+- [Live Demo](https://vishnuofficial582.github.io/weather-app/)
+- [Source Code](https://github.com/Vishnuofficial582/weather-app)
+
+### 4. Currency Converter
+A currency conversion application using exchange-rate data.
+- [Live Demo](https://vishnuofficial582.github.io/currency-converter/)
+- [Source Code](https://github.com/Vishnuofficial582/currency-converter)
+
+### 5.
